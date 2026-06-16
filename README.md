@@ -53,7 +53,7 @@ Dashboard analítico desenvolvido em Power BI para monitoramento operacional de 
 process-sla-analytics-dashboard/
 │
 ├── Operational Analytics Dashboard.pbix
-├── chamados.csv
+├── Base_Chamados_Generica.csv
 ├── dashboard.png
 └── README.md
 ```
